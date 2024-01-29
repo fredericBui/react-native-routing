@@ -14,4 +14,5 @@
 2.  Puis ajouter dans le fichier App.js une balise Stack.Screen
 
     Ex :
-    <Stack.Screen name="Page1" component={Page1Screen} />
+
+        <Stack.Screen name="Page1" component={Page1Screen} />
