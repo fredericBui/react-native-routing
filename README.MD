@@ -1,6 +1,7 @@
 # Tuto ReactNative routing
 
-1.  Pour créer de nouveaux écrans/pages ajouter un fichier [nom_du_fichier].js dans le dossier screens
+1.  Pour créer de nouveaux écrans/pages ajouter un fichier **[nom_du_fichier].js** dans le dossier screens
+
     Ex:
 
         export default function Page1Screen() {
